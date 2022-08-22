@@ -203,14 +203,14 @@
 5300;Asie;5305;Asie occidentale;249;Yémen;YEM;Moyen Orient 
 5100;Afrique;5101;Afrique orientale;251;Zambie;ZMB;
 5100;Afrique;5101;Afrique orientale;181;Zimbabwe;ZWE;
-5200;Amériques;5203;Amérique septentrionale;231;Anguilla;AIA
-5400;Europe;5403;Europe méridionale;203;Andorra;AND
-5500;Océanie;5501;Australie et Nouvelle-Zélande;10;Cook Islands;COK
-5400;Europe;5404;Europe occidentale;68;Monaco;MCO
-5500;Océanie;5503;Micronésie;83;Iles Marshall;MHL
-5500;Océanie;5504;Polynésie;219;Niué;NIU
-5500;Océanie;5503;Micronésie;83;Nauru;NRU
-5500;Océanie;5503;Micronésie;83;République des Palaos;PLW
-5400;Europe;5403;Europe méridionale;106;San Marino;SMR
-5500;Océanie;5504;Polynésie;219;État des Tuvalu;TUV
+5200;Amériques;5203;Amérique septentrionale;231;Anguilla;AIA;
+5400;Europe;5403;Europe méridionale;203;Andorra;AND;
+5500;Océanie;5501;Australie et Nouvelle-Zélande;10;Cook Islands;COK;
+5400;Europe;5404;Europe occidentale;68;Monaco;MCO;
+5500;Océanie;5503;Micronésie;83;Iles Marshall;MHL;
+5500;Océanie;5504;Polynésie;219;Niué;NIU;
+5500;Océanie;5503;Micronésie;83;Nauru;NRU;
+5500;Océanie;5503;Micronésie;83;République des Palaos;PLW;
+5400;Europe;5403;Europe méridionale;106;San Marino;SMR;
+5500;Océanie;5504;Polynésie;219;Tuvalu;TUV;
 
