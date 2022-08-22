@@ -1,0 +1,7 @@
+Dimension,Code,Title,ParentDimension,ParentCode,ParentTitle
+GHO,WSH_HYGIENE_BASIC,Population with basic handwashing facilities at home (%),,,
+GHO,WSH_SANITATION_BASIC,Population using at least basic sanitation services (%),,,
+GHO,WSH_SANITATION_OD,Population practising open defecation (%),,,
+GHO,WSH_SANITATION_SAFELY_MANAGED,Population using safely managed sanitation services (%),,,
+GHO,WSH_WATER_BASIC,Population using at least basic drinking-water services (%),,,
+GHO,WSH_WATER_SAFELY_MANAGED,Population using safely managed drinking-water services (%),,,
