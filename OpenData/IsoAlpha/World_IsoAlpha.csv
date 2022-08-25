@@ -5,7 +5,7 @@
 5400;Europe;5404;Europe occidentale;79;Allemagne;Germany;DEU;High income;
 5100;Afrique;5102;Afrique centrale;7;Angola;Angola;AGO;Lower middle income;
 5200;Amériques;5206;Caraïbes;8;Antigua-et-Barbuda;Antigua and Barbuda;ATG;High income;
-5400;Europe;5403;Europe méridionale;203;Andorra;Andorra;AND;High income;
+5400;Europe;5403;Europe méridionale;6;Andorra;Andorra;AND;High income;
 5300;Asie;5305;Asie occidentale;194;Arabie saoudite;Saudi Arabia;SAU;High income;Moyen Orient 
 5300;Asie;5305;Asie occidentale;225;Émirats arabes unis;United Arab Emirates;ARE;High income;Moyen Orient 
 5200;Amériques;5207;Amérique du Sud;9;Argentine;Argentina;ARG;Upper middle income;
@@ -158,7 +158,7 @@
 5300;Asie;5305;Asie occidentale;179;Qatar;Qatar;QAT;High income;Moyen Orient  (uptade1)
 5400;Europe;5404;Europe occidentale;68;Monaco;Monaco;MCO;High income;
 5400;Europe;5401;Europe orientale;146;République de Moldova;Moldova;MDA;Upper middle income;Ex URSS
-5500;Océanie;5503;Micronésie;83;Iles Marshall;Marshall Islands;MHL;Upper middle income;
+5500;Océanie;5503;Micronésie;127;Iles Marshall;Marshall Islands;MHL;Upper middle income;
 5300;Asie;5302;Asie orientale;116;République populaire démocratique de Corée;Korea, Dem. People's Rep.;PRK;Low income;
 5400;Europe;5401;Europe orientale;183;Roumanie;Romania;ROU;High income;
 5100;Afrique;5101;Afrique orientale;184;Rwanda;Rwanda;RWA;Low income;
@@ -170,7 +170,7 @@
 5100;Afrique;5103;Afrique septentrionale;206;Soudan;Sudan;SDN;Low income;Soudan ex
 5100;Afrique;5103;Afrique septentrionale;276;Soudan ex;Sudan;SDN;Low income;Soudan ex
 5100;Afrique;5101;Afrique orientale;277;Soudan du Sud;South Sudan;SSD;Low income;Update1
-5500;Océanie;5503;Micronésie;83;Nauru;Nauru;NRU;High income;
+5500;Océanie;5503;Micronésie;148;Nauru;Nauru;NRU;High income;
 5500;Océanie;5503;Micronésie;83;République des Palaos;Palau;PLW;Upper middle income;
 5400;Europe;5403;Europe méridionale;106;San Marino;San Marino;SMR;High income;
 5100;Afrique;5102;Afrique centrale;193;Sao Tomé-et-Principe;São Tomé and Principe;STP;Lower middle income;
@@ -191,19 +191,24 @@
 5200;Amériques;5206;Caraïbes;220;Trinité-et-Tobago;Trinidad and Tobago;TTO;High income;
 5100;Afrique;5103;Afrique septentrionale;222;Tunisie;Tunisia;TUN;Lower middle income;
 5300;Asie;5305;Asie occidentale;223;Turquie;Türkiye;TUR;Upper middle income;
-5500;Océanie;5504;Polynésie;219;Tuvalu;Tuvalu;TUV;Upper middle income;
+5500;Océanie;5504;Polynésie;227;Tuvalu;Tuvalu;TUV;Upper middle income;
 5100;Afrique;5101;Afrique orientale;215;République-Unie de Tanzanie;Tanzania;TZA;Lower middle income;
 5100;Afrique;5101;Afrique orientale;226;Ouganda;Uganda;UGA;Low income;
 5400;Europe;5401;Europe orientale;230;Ukraine;Ukraine;UKR;Lower middle income;Ex URSS
-5200;Amériques;5207;Amérique du Sud;234;Uruguay;Uruguay;URY;High income;
+5200;Amériques;5207;Amérique du Sud;234;Uruguay;Uruguay;URY;;
 5200;Amériques;5203;Amérique septentrionale;231;États-Unis d'Amérique;United States;USA;High income;
 5300;Asie;5301;Asie centrale;235;Ouzbékistan;Uzbekistan;UZB;Lower middle income;Ex URSS
 5200;Amériques;5206;Caraïbes;191;Saint-Vincent-et-les Grenadines;St. Vincent and the Grenadines;VCT;Upper middle income;
 5200;Amériques;5207;Amérique du Sud;236;Venezuela (République bolivarienne du);Venezuela, RB;VEN;;
 5300;Asie;5304;Asie du Sud-Est;237;Viet Nam;Vietnam;VNM;Lower middle income;
 5500;Océanie;5502;Mélanésie;155;Vanuatu;Vanuatu;VUT;Lower middle income;
-5500;Océanie;5504;Polynésie;244;Samoa;Samoa;WSM;Lower middle income;
+5500;Océanie;5504;Polynésie;5;Samoa;Samoa;WSM;Lower middle income;
 5300;Asie;5305;Asie occidentale;249;Yémen;Yemen, Rep.;YEM;Low income;Moyen Orient 
 5100;Afrique;5104;Afrique australe;202;Afrique du Sud;South Africa;ZAF;Upper middle income;
 5100;Afrique;5101;Afrique orientale;251;Zambie;Zambia;ZMB;Low income;
 5100;Afrique;5101;Afrique orientale;181;Zimbabwe;Zimbabwe;ZWE;Lower middle income;
+5300;Asie;5302;Asie orientale;214;Chine Province de Taiwan;China, Taiwan Province of;TWN;High income;
+5500;Océanie;5501;Australie et Nouvelle-Zélande;47;Cook Islands;Cook Islands;COK;;Les Îles Cook sont un État du Pacifique Sud, politiquement lié à la Nouvelle-Zélande. 
+5400;Europe;5403;Europe méridionale;85;Groenland;Greenland;GRL;;World Bank data : Danish krone   ratache au DNK   - Greenland
+5500;Océanie;5504;Polynésie;160;Niué;Niue;NIU;;
+5500;Océanie;5503;Micronésie;180;République des Palaos;Palau;PLW;Upper middle income;
