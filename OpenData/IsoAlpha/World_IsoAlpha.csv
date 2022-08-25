@@ -202,7 +202,7 @@
 5200;Amériques;5207;Amérique du Sud;236;Venezuela (République bolivarienne du);Venezuela, RB;VEN;;
 5300;Asie;5304;Asie du Sud-Est;237;Viet Nam;Vietnam;VNM;Lower middle income;
 5500;Océanie;5502;Mélanésie;155;Vanuatu;Vanuatu;VUT;Lower middle income;
-5500;Océanie;5504;Polynésie;5;Samoa;Samoa;WSM;Lower middle income;
+5500;Océanie;5504;Polynésie;244;Samoa;Samoa;WSM;Lower middle income;
 5300;Asie;5305;Asie occidentale;249;Yémen;Yemen, Rep.;YEM;Low income;Moyen Orient 
 5100;Afrique;5104;Afrique australe;202;Afrique du Sud;South Africa;ZAF;Upper middle income;
 5100;Afrique;5101;Afrique orientale;251;Zambie;Zambia;ZMB;Low income;
@@ -212,3 +212,4 @@
 5400;Europe;5403;Europe méridionale;85;Groenland;Greenland;GRL;;World Bank data : Danish krone   ratache au DNK   - Greenland
 5500;Océanie;5504;Polynésie;160;Niué;Niue;NIU;;
 5500;Océanie;5503;Micronésie;180;République des Palaos;Palau;PLW;Upper middle income;
+5500;Océanie;5504;Polynésie;5;American Samoa;American Samoa;ASM;;es Samoa américaines sont un territoire non incorporé et non organisé des États-Unis situé en Océanie. Les Samoa américaines sont la partie américaine de l'archipel des Samoa
