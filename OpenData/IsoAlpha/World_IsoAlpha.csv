@@ -1,0 +1,209 @@
+﻿CodeContinentFAO;ContinentFr;CodeZoneContinentFAO;ZoneContinentFrFAO;CodeZoneFAO;ZoneFr;ZoneEn;AlphaISO3;IncomeGroupWorldBank;Note
+5300;Asie;5303;Asie méridionale;2;Afghanistan;Afghanistan;AFG;Low income;
+5400;Europe;5403;Europe méridionale;3;Albanie;Albania;ALB;Upper middle income;
+5100;Afrique;5103;Afrique septentrionale;4;Algérie;Algeria;DZA;Lower middle income;
+5400;Europe;5404;Europe occidentale;79;Allemagne;Germany;DEU;High income;
+5100;Afrique;5102;Afrique centrale;7;Angola;Angola;AGO;Lower middle income;
+5200;Amériques;5206;Caraïbes;8;Antigua-et-Barbuda;Antigua and Barbuda;ATG;High income;
+5400;Europe;5403;Europe méridionale;203;Andorra;Andorra;AND;High income;
+5300;Asie;5305;Asie occidentale;194;Arabie saoudite;Saudi Arabia;SAU;High income;Moyen Orient 
+5300;Asie;5305;Asie occidentale;225;Émirats arabes unis;United Arab Emirates;ARE;High income;Moyen Orient 
+5200;Amériques;5207;Amérique du Sud;9;Argentine;Argentina;ARG;Upper middle income;
+5300;Asie;5305;Asie occidentale;1;Arménie;Armenia;ARM;Upper middle income;Ex URSS
+5500;Océanie;5501;Australie et Nouvelle-Zélande;10;Australie;Australia;AUS;High income;
+5400;Europe;5404;Europe occidentale;11;Autriche;Austria;AUT;High income;
+5300;Asie;5305;Asie occidentale;52;Azerbaïdjan;Azerbaijan;AZE;Upper middle income;Ex URSS
+5200;Amériques;5206;Caraïbes;12;Bahamas;Bahamas, The;BHS;High income;
+5300;Asie;5305;Asie occidentale;13;Bahreïn;Bahrain;BHR;High income;Moyen Orient  (uptade1)
+5300;Asie;5303;Asie méridionale;16;Bangladesh;Bangladesh;BGD;Lower middle income;
+5100;Afrique;5101;Afrique orientale;29;Burundi;Burundi;BDI;Low income;
+5200;Amériques;5206;Caraïbes;14;Barbade;Barbados;BRB;High income;
+5400;Europe;5404;Europe occidentale;255;Belgique;Belgium;BEL;High income;
+5400;Europe;5404;Europe occidentale;15;Belgique-Luxembourg;Belgium;BEL;High income;Affectation Be car pop Be 10Mhb  > pop Lux 4-6mhab
+5400;Europe;5401;Europe orientale;57;Bélarus;Belarus;BLR;Upper middle income;Ex URSS
+5100;Afrique;5105;Afrique occidentale;53;Bénin;Benin;BEN;Lower middle income;
+5100;Afrique;5105;Afrique occidentale;233;Burkina Faso;Burkina Faso;BFA;Low income;
+5200;Amériques;5204;Amérique centrale;23;Belize;Belize;BLZ;Upper middle income;
+5400;Europe;5401;Europe orientale;27;Bulgarie;Bulgaria;BGR;Upper middle income;
+5200;Amériques;5207;Amérique septentrionale;17;Bermudes;Bermuda;BMU;High income;Update1
+5300;Asie;5303;Asie méridionale;18;Bhoutan;Bhutan;BTN;Lower middle income;Update1
+5400;Europe;5403;Europe méridionale;80;Bosnie-Herzégovine;Bosnia and Herzegovina;BIH;Upper middle income;Yougoslavie
+5200;Amériques;5207;Amérique du Sud;19;Bolivie (État plurinational de);Bolivia;BOL;Lower middle income;
+5100;Afrique;5104;Afrique australe;20;Botswana;Botswana;BWA;Upper middle income;
+5200;Amériques;5207;Amérique du Sud;21;Brésil;Brazil;BRA;Upper middle income;
+5300;Asie;5304;Asie du Sud-Est;26;Brunéi Darussalam;Brunei Darussalam;BRN;High income;Update1
+5100;Afrique;5105;Afrique occidentale;35;Cabo Verde;Cabo Verde;CPV;Lower middle income;
+5300;Asie;5304;Asie du Sud-Est;115;Cambodge;Cambodia;KHM;Lower middle income;
+5100;Afrique;5102;Afrique centrale;37;République centrafricaine;Central African Republic;CAF;Low income;
+5100;Afrique;5102;Afrique centrale;32;Cameroun;Cameroon;CMR;Lower middle income;
+5200;Amériques;5203;Amérique septentrionale;33;Canada;Canada;CAN;High income;
+5200;Amériques;5207;Amérique du Sud;40;Chili;Chile;CHL;High income;
+5400;Europe;5404;Europe occidentale;211;Suisse;Switzerland;CHE;High income;
+5300;Asie;5302;Asie orientale;351;Chine;China;CHN;Upper middle income;
+5300;Asie;5302;Asie orientale;357;Chine (exc. Hong-Kong et Macao);China;CHN;Upper middle income;Uptade1 Aide Alim
+5300;Asie;5302;Asie orientale;41;Chine, continentale;China;CHN;Upper middle income;Chine
+5300;Asie;5302;Asie orientale;96;Chine - RAS de Hong-Kong;Hong Kong SAR, China;HKG;High income;
+5300;Asie;5302;Asie orientale;128;Chine - RAS de Macao;Macao SAR, China;MAC;High income;
+5100;Afrique;5105;Afrique occidentale;107;Côte d'Ivoire;Côte d'Ivoire;CIV;Lower middle income;
+5100;Afrique;5102;Afrique centrale;250;République démocratique du Congo;Congo, Dem. Rep.;COD;Low income;
+5300;Asie;5305;Asie occidentale;50;Chypre;Cyprus;CYP;High income;Moyen Orient 
+5100;Afrique;5102;Afrique centrale;46;Congo;Congo, Rep.;COG;Lower middle income;
+5200;Amériques;5207;Amérique du Sud;44;Colombie;Colombia;COL;Upper middle income;
+5100;Afrique;5101;Afrique orientale;45;Comores;Comoros;COM;Lower middle income;
+5200;Amériques;5204;Amérique centrale;48;Costa Rica;Costa Rica;CRI;Upper middle income;
+5400;Europe;5403;Europe méridionale;98;Croatie;Croatia;HRV;High income;Yougoslavie
+5200;Amériques;5206;Caraïbes;49;Cuba;Cuba;CUB;Upper middle income;
+5400;Europe;5402;Europe septentrionale;54;Danemark;Denmark;DNK;High income;
+5100;Afrique;5101;Afrique orientale;72;Djibouti;Djibouti;DJI;Lower middle income;
+5200;Amériques;5206;Caraïbes;55;Dominique;Dominica;DMA;Upper middle income;
+5400;Europe;5401;Europe orientale;51;Tchécoslovaquie;Czech Republic;CZE;High income;Affectation Tchéquie  :  Pop2020   TCH 10 Mhab. / Slov 5 Mhab.
+5400;Europe;5401;Europe orientale;167;Tchéquie;Czech Republic;CZE;High income;
+5100;Afrique;5103;Afrique septentrionale;59;Égypte;Egypt, Arab Rep.;EGY;Lower middle income;
+5200;Amériques;5204;Amérique centrale;60;El Salvador;El Salvador;SLV;Lower middle income;
+5200;Amériques;5207;Amérique du Sud;58;Équateur;Ecuador;ECU;Upper middle income;
+5100;Afrique;5101;Afrique orientale;178;Érythrée;Eritrea;ERI;Low income;Update1
+5200;Amériques;5206;Caraïbes;56;République dominicaine;Dominican Republic;DOM;Upper middle income;
+5400;Europe;5403;Europe méridionale;203;Espagne;Spain;ESP;High income;
+5400;Europe;5402;Europe septentrionale;63;Estonie;Estonia;EST;High income;Ex URSS
+5100;Afrique;5101;Afrique orientale;238;Éthiopie;Ethiopia;ETH;Low income;
+5100;Afrique;5101;Afrique orientale;62;Éthiopie RDP;Ethiopia;ETH;Low income;Ethopie
+5400;Europe;5401;Europe orientale;185;Fédération de Russie;Russian Federation;RUS;Upper middle income;Ex URSS
+5400;Europe;5401;Europe orientale;228;URSS;Russian Federation;RUS;Upper middle income;Russie
+5500;Océanie;5502;Mélanésie;66;Fidji;Fiji;FJI;Upper middle income;
+5400;Europe;5402;Europe septentrionale;67;Finlande;Finland;FIN;High income;
+5400;Europe;5404;Europe occidentale;68;France;France;FRA;High income;
+5100;Afrique;5102;Afrique centrale;74;Gabon;Gabon;GAB;Upper middle income;
+5100;Afrique;5105;Afrique occidentale;75;Gambie;Gambia, The;GMB;Low income;
+5300;Asie;5305;Asie occidentale;73;Géorgie;Georgia;GEO;Upper middle income;Ex URSS
+5100;Afrique;5105;Afrique occidentale;81;Ghana;Ghana;GHA;Lower middle income;
+5400;Europe;5403;Europe méridionale;84;Grèce;Greece;GRC;High income;
+5200;Amériques;5206;Caraïbes;86;Grenade;Grenada;GRD;Upper middle income;
+5200;Amériques;5204;Amérique centrale;89;Guatemala;Guatemala;GTM;Upper middle income;
+5100;Afrique;5105;Afrique occidentale;90;Guinée;Guinea;GIN;Low income;
+5100;Afrique;5102;Afrique centrale;61;Guinée équatoriale;Equatorial Guinea;GNQ;Upper middle income;Update1
+5100;Afrique;5105;Afrique occidentale;175;Guinée-Bissau;Guinea-Bissau;GNB;Low income;
+5300;Asie;5304;Asie du Sud-Est;145;Micronésie (États fédérés de);Micronesia, Fed. Sts.;FSM;Lower middle income;Update1
+5200;Amériques;5207;Amérique du Sud;91;Guyana;Guyana;GUY;Upper middle income;
+5200;Amériques;5206;Caraïbes;93;Haïti;Haiti;HTI;Lower middle income;
+5400;Europe;5402;Europe septentrionale;229;Royaume-Uni de Grande-Bretagne et d'Irlande du Nord;United Kingdom;GBR;High income;
+5200;Amériques;5204;Amérique centrale;95;Honduras;Honduras;HND;Lower middle income;
+5400;Europe;5401;Europe orientale;97;Hongrie;Hungary;HUN;High income;
+5500;Océanie;5502;Mélanésie;25;Îles Salomon;Solomon Islands;SLB;Lower middle income;
+5300;Asie;5303;Asie méridionale;100;Inde;India;IND;Lower middle income;
+5300;Asie;5304;Asie du Sud-Est;101;Indonésie;Indonesia;IDN;Lower middle income;
+5300;Asie;5303;Asie méridionale;102;Iran (République islamique d');Iran, Islamic Rep.;IRN;Lower middle income;
+5300;Asie;5305;Asie occidentale;103;Iraq;Iraq;IRQ;Upper middle income;
+5400;Europe;5402;Europe septentrionale;104;Irlande;Ireland;IRL;High income;
+5400;Europe;5402;Europe septentrionale;99;Islande;Iceland;ISL;High income;
+5300;Asie;5305;Asie occidentale;105;Israël;Israel;ISR;High income;Moyen Orient 
+5400;Europe;5403;Europe méridionale;106;Italie;Italy;ITA;High income;
+5200;Amériques;5206;Caraïbes;109;Jamaïque;Jamaica;JAM;Upper middle income;
+5300;Asie;5302;Asie orientale;110;Japon;Japan;JPN;High income;
+5300;Asie;5305;Asie occidentale;112;Jordanie;Jordan;JOR;Upper middle income;Moyen Orient 
+5300;Asie;5301;Asie centrale;108;Kazakhstan;Kazakhstan;KAZ;Upper middle income;Ex URSS (Biélorussie)
+5100;Afrique;5101;Afrique orientale;114;Kenya;Kenya;KEN;Lower middle income;
+5300;Asie;5301;Asie centrale;113;Kirghizistan;Kyrgyz Republic;KGZ;Lower middle income;Ex URSS
+5500;Océanie;5503;Micronésie;83;Kiribati;Kiribati;KIR;Lower middle income;
+5300;Asie;5305;Asie occidentale;118;Koweït;Kuwait;KWT;High income;Moyen Orient 
+5100;Afrique;5104;Afrique australe;122;Lesotho;Lesotho;LSO;Lower middle income;
+5400;Europe;5402;Europe septentrionale;119;Lettonie;Latvia;LVA;High income;Ex URSS
+5300;Asie;5305;Asie occidentale;121;Liban;Lebanon;LBN;Lower middle income;Moyen Orient 
+5100;Afrique;5105;Afrique occidentale;123;Libéria;Liberia;LBR;Low income;
+5100;Afrique;5103;Afrique septentrionale;124;Libye;Libya;LBY;Upper middle income;
+5400;Europe;5402;Europe septentrionale;126;Lituanie;Lithuania;LTU;High income;Ex URSS
+5400;Europe;5404;Europe occidentale;256;Luxembourg;Luxembourg;LUX;High income;
+5400;Europe;5403;Europe méridionale;154;Macédoine du Nord;North Macedonia;MKD;Upper middle income;Yougoslavie
+5100;Afrique;5101;Afrique orientale;129;Madagascar;Madagascar;MDG;Low income;
+5300;Asie;5304;Asie du Sud-Est;131;Malaisie;Malaysia;MYS;Upper middle income;
+5100;Afrique;5101;Afrique orientale;130;Malawi;Malawi;MWI;Low income;
+5300;Asie;5303;Asie méridionale;132;Maldives;Maldives;MDV;Upper middle income;
+5100;Afrique;5105;Afrique occidentale;133;Mali;Mali;MLI;Low income;
+5400;Europe;5403;Europe méridionale;134;Malte;Malta;MLT;High income;
+5100;Afrique;5103;Afrique septentrionale;143;Maroc;Morocco;MAR;Lower middle income;
+5100;Afrique;5101;Afrique orientale;137;Maurice;Mauritius;MUS;Upper middle income;
+5100;Afrique;5105;Afrique occidentale;136;Mauritanie;Mauritania;MRT;Lower middle income;
+5200;Amériques;5204;Amérique centrale;138;Mexique;Mexico;MEX;Upper middle income;
+5300;Asie;5302;Asie orientale;141;Mongolie;Mongolia;MNG;Lower middle income;
+5400;Europe;5403;Europe méridionale;273;Monténégro;Montenegro;MNE;Upper middle income;Yougoslavie
+5400;Europe;5403;Europe méridionale;248;RFS de Yougoslavie;Montenegro;MNE;Upper middle income;Yougoslavie : Monténégro 6Mhab  - Serbie 9Mhab- Kosovo - Macédoine 2Mhab - Bosnie-Herzégovine  3,8Mhab - Croatie 4hba
+5100;Afrique;5101;Afrique orientale;144;Mozambique;Mozambique;MOZ;Low income;
+5300;Asie;5304;Asie du Sud-Est;28;Myanmar;Myanmar;MMR;Lower middle income;
+5100;Afrique;5104;Afrique australe;147;Namibie;Namibia;NAM;Upper middle income;
+5200;Amériques;5206;Caraïbes;188;Saint-Kitts-et-Nevis;St. Kitts and Nevis;KNA;High income;
+5300;Asie;5303;Asie méridionale;149;Népal;Nepal;NPL;Lower middle income;
+5300;Asie;5302;Asie orientale;117;République de Corée;Korea, Rep.;KOR;High income;
+5200;Amériques;5204;Amérique centrale;157;Nicaragua;Nicaragua;NIC;Lower middle income;
+5100;Afrique;5105;Afrique occidentale;158;Niger;Niger;NER;Low income;
+5100;Afrique;5105;Afrique occidentale;159;Nigéria;Nigeria;NGA;Lower middle income;
+5300;Asie;5304;Asie du Sud-Est;120;République démocratique populaire lao;Lao PDR;LAO;Lower middle income;
+5400;Europe;5402;Europe septentrionale;162;Norvège;Norway;NOR;High income;
+5500;Océanie;5502;Mélanésie;153;Nouvelle-Calédonie;New Caledonia;NCL;High income;
+5500;Océanie;5501;Australie et Nouvelle-Zélande;156;Nouvelle-Zélande;New Zealand;NZL;High income;
+5300;Asie;5305;Asie occidentale;221;Oman;Oman;OMN;High income;Moyen Orient 
+5200;Amériques;5206;Caraïbes;189;Sainte-Lucie;St. Lucia;LCA;Upper middle income;
+5300;Asie;5303;Asie méridionale;165;Pakistan;Pakistan;PAK;Lower middle income;
+5300;Asie;5305;Asie occidentale;299;Palestine;West Bank and Gaza;PSE;Lower middle income;Update2
+5300;Asie;5305;Asie occidentale;76;Palestine;West Bank and Gaza;PSE;Lower middle income;Uptade1 Aide Alim
+5300;Asie;5303;Asie méridionale;38;Sri Lanka;Sri Lanka;LKA;Lower middle income;
+5200;Amériques;5204;Amérique centrale;166;Panama;Panama;PAN;High income;
+5500;Océanie;5502;Mélanésie;168;Papouasie-Nouvelle-Guinée;Papua New Guinea;PNG;Lower middle income;
+5200;Amériques;5207;Amérique du Sud;169;Paraguay;Paraguay;PRY;Upper middle income;
+5400;Europe;5404;Europe occidentale;150;Pays-Bas;Netherlands;NLD;High income;
+5200;Amériques;5207;Amérique du Sud;170;Pérou;Peru;PER;Upper middle income;
+5300;Asie;5304;Asie du Sud-Est;171;Philippines;Philippines;PHL;Lower middle income;
+5400;Europe;5401;Europe orientale;173;Pologne;Poland;POL;High income;
+5500;Océanie;5504;Polynésie;70;Polynésie française;French Polynesia;PYF;High income;
+5200;Amériques;5206;Caraïbes;177;Porto Rico;Puerto Rico;PRI;High income;Update1
+5400;Europe;5403;Europe méridionale;174;Portugal;Portugal;PRT;High income;
+5300;Asie;5305;Asie occidentale;179;Qatar;Qatar;QAT;High income;Moyen Orient  (uptade1)
+5400;Europe;5404;Europe occidentale;68;Monaco;Monaco;MCO;High income;
+5400;Europe;5401;Europe orientale;146;République de Moldova;Moldova;MDA;Upper middle income;Ex URSS
+5500;Océanie;5503;Micronésie;83;Iles Marshall;Marshall Islands;MHL;Upper middle income;
+5300;Asie;5302;Asie orientale;116;République populaire démocratique de Corée;Korea, Dem. People's Rep.;PRK;Low income;
+5400;Europe;5401;Europe orientale;183;Roumanie;Romania;ROU;High income;
+5100;Afrique;5101;Afrique orientale;184;Rwanda;Rwanda;RWA;Low income;
+5100;Afrique;5105;Afrique occidentale;195;Sénégal;Senegal;SEN;Lower middle income;
+5400;Europe;5403;Europe méridionale;272;Serbie;Serbia;SRB;Upper middle income;Yougoslavie
+5100;Afrique;5105;Afrique occidentale;197;Sierra Leone;Sierra Leone;SLE;Low income;
+5300;Asie;5304;Asie du Sud-Est;200;Singapour;Singapore;SGP;High income;Update1
+5100;Afrique;5101;Afrique orientale;201;Somalie;Somalia;SOM;Low income;Update1
+5100;Afrique;5103;Afrique septentrionale;206;Soudan;Sudan;SDN;Low income;Soudan ex
+5100;Afrique;5103;Afrique septentrionale;276;Soudan ex;Sudan;SDN;Low income;Soudan ex
+5100;Afrique;5101;Afrique orientale;277;Soudan du Sud;South Sudan;SSD;Low income;Update1
+5500;Océanie;5503;Micronésie;83;Nauru;Nauru;NRU;High income;
+5500;Océanie;5503;Micronésie;83;République des Palaos;Palau;PLW;Upper middle income;
+5400;Europe;5403;Europe méridionale;106;San Marino;San Marino;SMR;High income;
+5100;Afrique;5102;Afrique centrale;193;Sao Tomé-et-Principe;São Tomé and Principe;STP;Lower middle income;
+5200;Amériques;5207;Amérique du Sud;207;Suriname;Suriname;SUR;Upper middle income;
+5400;Europe;5401;Europe orientale;199;Slovaquie;Slovak Republic;SVK;High income;
+5400;Europe;5403;Europe méridionale;198;Slovénie;Slovenia;SVN;High income;
+5400;Europe;5402;Europe septentrionale;210;Suède;Sweden;SWE;High income;
+5100;Afrique;5104;Afrique australe;209;Eswatini;Eswatini;SWZ;Lower middle income;
+5100;Afrique;5101;Afrique orientale;196;Seychelles;Seychelles;SYC;High income;
+5300;Asie;5305;Asie occidentale;212;République arabe syrienne;Syrian Arab Republic;SYR;Low income;Moyen Orient 
+5100;Afrique;5102;Afrique centrale;39;Tchad;Chad;TCD;Low income;
+5100;Afrique;5105;Afrique occidentale;217;Togo;Togo;TGO;Low income;
+5300;Asie;5304;Asie du Sud-Est;216;Thaïlande;Thailand;THA;Upper middle income;
+5300;Asie;5301;Asie centrale;208;Tadjikistan;Tajikistan;TJK;Lower middle income;Ex URSS
+5300;Asie;5301;Asie centrale;213;Turkménistan;Turkmenistan;TKM;Upper middle income;Ex URSS
+5300;Asie;5304;Asie du Sud-Est;176;Timor-Leste;Timor-Leste;TLS;Lower middle income;
+5500;Océanie;5504;Polynésie;219;Tonga;Tonga;TON;Upper middle income;Update1
+5200;Amériques;5206;Caraïbes;220;Trinité-et-Tobago;Trinidad and Tobago;TTO;High income;
+5100;Afrique;5103;Afrique septentrionale;222;Tunisie;Tunisia;TUN;Lower middle income;
+5300;Asie;5305;Asie occidentale;223;Turquie;Türkiye;TUR;Upper middle income;
+5500;Océanie;5504;Polynésie;219;Tuvalu;Tuvalu;TUV;Upper middle income;
+5100;Afrique;5101;Afrique orientale;215;République-Unie de Tanzanie;Tanzania;TZA;Lower middle income;
+5100;Afrique;5101;Afrique orientale;226;Ouganda;Uganda;UGA;Low income;
+5400;Europe;5401;Europe orientale;230;Ukraine;Ukraine;UKR;Lower middle income;Ex URSS
+5200;Amériques;5207;Amérique du Sud;234;Uruguay;Uruguay;URY;High income;
+5200;Amériques;5203;Amérique septentrionale;231;États-Unis d'Amérique;United States;USA;High income;
+5300;Asie;5301;Asie centrale;235;Ouzbékistan;Uzbekistan;UZB;Lower middle income;Ex URSS
+5200;Amériques;5206;Caraïbes;191;Saint-Vincent-et-les Grenadines;St. Vincent and the Grenadines;VCT;Upper middle income;
+5200;Amériques;5207;Amérique du Sud;236;Venezuela (République bolivarienne du);Venezuela, RB;VEN;;
+5300;Asie;5304;Asie du Sud-Est;237;Viet Nam;Vietnam;VNM;Lower middle income;
+5500;Océanie;5502;Mélanésie;155;Vanuatu;Vanuatu;VUT;Lower middle income;
+5500;Océanie;5504;Polynésie;244;Samoa;Samoa;WSM;Lower middle income;
+5300;Asie;5305;Asie occidentale;249;Yémen;Yemen, Rep.;YEM;Low income;Moyen Orient 
+5100;Afrique;5104;Afrique australe;202;Afrique du Sud;South Africa;ZAF;Upper middle income;
+5100;Afrique;5101;Afrique orientale;251;Zambie;Zambia;ZMB;Low income;
+5100;Afrique;5101;Afrique orientale;181;Zimbabwe;Zimbabwe;ZWE;Lower middle income;
